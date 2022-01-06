@@ -1,0 +1,95 @@
+Capitol Reef National Park,Utah,38.089600,-111.149910
+Pinnacles National Park,California,36.491508,-121.197243
+Rocky Mountain National Park,Colorado,40.343182,-105.688103
+Offshore Trap/Pot Waters Area,Western Atlantic Ocean,38.000000,-82.000000
+Steller Sea Lion Protection Area,Alabama,57.466667,-153.433334
+Pacific Remote Islands Marine National Monument,Pacific Ocean,16.736944,-169.523895
+Papahanaumokuakea Marine National Monument,Hawaii,25.700001,-171.733337
+Danville Conservation Area,Montana,38.865097,-91.504852
+Sand Harbor State Park,Nevada,39.198364,-119.930984
+White Sands National Park,New Mexico,32.779720,-106.171669
+Jackson Hole,Wyoming,43.582767,-110.821999
+Mojave National Preserve,California,35.141689,-115.510399
+Joshua Tree National Park,California,33.881866,-115.900650
+Buffalo National River,Arkansas,35.985512,-92.757652
+Hot Springs National Park,Arkasas,34.521530,-93.042267
+Kartchner Caverns State Park,Arizona,31.837551,-110.347382
+Navajo Nation Reservation,New Mexico,36.075321,-109.196930
+Sipsey Wilderness,Alabama,34.332035,-87.434799
+Wrangell-St. Elias National Park & Preserve,Alaska,61.710445,-142.985687
+Lake Clark National Park and Preserve,Alaska,60.412697,-154.323502
+Katmai National Park and Preserve,Alaska,58.597813,-154.693756
+Glacier Bay National Park and Preserve,Alaska,58.665806,-136.900208
+Turtle Mountain,North Dakota,48.852882,-99.803535
+Odiorne Point State Park,New Hampshire,43.049023,-70.720192
+Channel Islands National Park,California,33.998028,-119.772949
+Maplewood State Park,Minnesota,46.520966,-95.951576
+Bear Butte State Park,South Dakota,44.475296,-103.424309
+Okefenokee National Wildlife Refuge,Georgia,30.773230,-82.292732
+Denali National Park and Preserve,Alaska,63.129887,-151.197418
+Acadia National Park,Maine,44.338974,-68.273430
+Topanga State Park,California,34.093182,-118.587318
+Gates of the Arctic National Park and Preserve,Alaska,67.915199,-153.463730
+Kaloko-Honokōhau National Historical Park,Hawaii,19.678328,-156.020477
+Pedernales Falls State Park,Texas,30.308069,-98.257729
+Whiskeytown National Recreation Area,California,40.633495,-122.564247
+Mesa Verde National Park,Colorado,37.230873,-108.461838
+Arches National Park,Utah,38.733082,-109.592514
+Mount Rainier National Park,Washington,46.879967,-121.726906
+Kenai Fjords National Park,Alaska,60.043777,-149.816360
+Anahuac National Wildlife Refuge,Texas,29.610300,-94.449081
+Bandelier National Monument,New Mexico,35.767288,-106.311607
+Summit Bechtel Reserve,West Virginia,37.916035,-81.123047
+Yellowstone National Park,Wyoming,44.427895,-110.588379
+Rothrock State Forest,Pennsylvania,40.720585,-77.826965
+Great Smoky Mountains National Park,Tennessee,35.611763,-83.489548
+Zion National Park,Utah,37.297817,-113.028770
+Yosemite National Park,California,37.865101,-119.538330
+Yellowstone National Park,Wyoming,44.429764,-110.584663
+Haleakalā National Park,Hawaii,20.701283,-156.173325
+Malibu Creek State Park,California,34.105156,-118.731316
+Manti-La Sal National Forest,Utah,39.187050,-111.379890
+Cherry Creek State Park,Colorado,39.639973,-104.831863
+Kissimmee Prairie Preserve State Park,Florida,27.612417,-81.053383
+Garden of Gods,Colorado,38.873840,-104.886665
+Petrified Forest National Park,Arizona,34.909988,-109.806793
+Fort Berthold Indian Reservation,North Dakota,47.683880,-102.354126
+Chattahoochee National Forest,Georgia,34.765972,-84.143517
+Little Sandy National Wildlife Refuge,Texas,32.590797,-95.273666
+Siuslaw National Forest,Oregon,44.358715,-123.829994
+Kings Canyon National Park,California,36.887856,-118.555145
+Ruffner Mountain Nature Center,Alabama,33.558990,-86.707016
+Yellowstone National Park,Wyoming,44.427284,-110.584389
+Kings Mountain State Park,South Carolina,35.130459,-81.345444
+Honolulu Watershed Forest Preserve,Hawaii,21.363251,-157.781265
+Oleta River State Park,Florida,25.921614,-80.144402
+Grant Park,Illinois,41.876465,-87.621887
+Wisconsin Interstate State Park,Wisconsin,45.398449,-92.645126
+Bridge Creek Wildlife Area,Oregon,45.043449,-118.949318
+Willamette National Forest,Oregon,44.060471,-122.091736
+Golden Gate Canyon State Park,California,39.814339,-105.395622
+William F Hayden Green Mountain Park,Colorado,39.702827,-105.175636
+Great Smoky Mountains National Park,Tennessee,35.593670,-83.824997
+Lantz Farm and Nature Preserve,West Virginia,39.516754,-80.649948
+Myakka State Forest,Florida,26.988386,-82.286552
+Lake Eola Park,Florida,28.545021,-81.372856
+Gulf State Park,Alabama,30.262793,-87.636337
+Egypt Valley Wildlife Area,Ohio,40.115486,-81.114090
+Kennesaw Mountain National Battlefield Park,Georgia,33.976376,-84.579163
+Shenandoah National Park,Virginia,38.700516,-78.292694
+Ricketts Glen State Park,Pennsylvania,41.339184,-76.290436
+El Dorado State Park,Kansas,37.866047,-96.756935
+Polihale State Park,Hawaii,22.079357,-159.761642
+Lake Wateree State Recreation Area,North Carolina,34.375179,-80.863495
+Kekaha Kai State Park,Hawaii,19.788027,-156.023453
+National Bison Range,Montana,47.342545,-114.209747
+Castlewood Canyon State Park,Colorado,39.319424,-104.730606
+Hillman State Park,Pennsylvania,40.453739,-80.400864
+Little Big Econ State Forest,Florida,28.673721,-81.104507
+Eagle Bluffs Conservation Area,Columbia,38.848934,-92.431839
+Everglades National Park,Florida,25.286615,-80.898651
+Mount Mitchell State Park,North Carolina,35.768803,-82.306137
+Mt. Hood National Forest,Oregon,45.454350,-121.933136
+Island Park,Idaho,44.429733,-111.440849
+Redwood National and State Parks,California,41.213181,-124.004631
+Yellowstone National Park,Wyoming,44.423691,-110.588516

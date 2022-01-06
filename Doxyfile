@@ -1,0 +1,3 @@
+@INCLUDE      = ../../doxygen/doxygen.conf
+PROJECT_NAME  = "Final Project"
+PROJECT_BRIEF = "Perilous Parks"
